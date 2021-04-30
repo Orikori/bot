@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import pyowm
 from pyowm.utils.config import get_default_config
 import telebot
